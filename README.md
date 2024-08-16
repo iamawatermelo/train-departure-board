@@ -8,3 +8,8 @@ Figma: https://www.figma.com/design/t7ylraunuuJrC88m9fxJZg/Untitled?node-id=1-2&
 
 ### Hour 1 progress
 ![](concourse-hour-1.png)
+
+### Hour 2 progress
+![](concourse-final.png)
+![](platform-horizontal-final.png)
+![](platform-vertical-final.png)
