@@ -1,6 +1,6 @@
 # train-departure-board
 
-Compose Desktop powered train departure board, using the OpenLDBSVWS (yes, that's what it's called)
+Compose Desktop powered train departure board, using the OpenLDBWS
 
 Sorry about the weird Git history, lol
 
